@@ -1,0 +1,7 @@
+---
+title: "Some notes about Atabak Alishiri"
+---
+
+This is a Quarto website made by Atabak.
+
+To learn more about Quarto websites visit <https://atabaknotes.com/>.

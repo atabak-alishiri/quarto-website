@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About my website",
+    "section": "",
+    "text": "About this site which is made by Atabak: - just go ahead and check this website https://atabaknotes.com/."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Some notes about Atabak Alishiri",
+    "section": "",
+    "text": "This is a Quarto website made by Atabak.\nTo learn more about Quarto websites visit https://atabaknotes.com/."
+  }
+]
